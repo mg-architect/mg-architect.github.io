@@ -1,12 +1,12 @@
 # Site settings
-title: Miguel Garcia Arquitectura y Diseño
+title: Miguel García Arquitectura y Diseño
 email:
-description: Miguel Garcia - Architecture and design studio in Cancun, Mexico. Miguel Garcia designs commercial and residential projects.
+description: Miguel García - Architecture and design studio in Cancún, México. Miguel García designs commercial and residential projects.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: Miguel Garcia
+owner: Miguel García
 email: mg_architecture-and-design@hotmail.com
 facebook_username: MiguelGarciaAyD
 twitter_username:
