@@ -1,6 +1,6 @@
 # Site settings
 title: Miguel García Arquitectura y Diseño
-email:
+email: mgarquitectura@arquitecturamg.com
 description: Miguel García - Architecture and design studio in Cancún, México. Miguel García designs commercial and residential projects.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
