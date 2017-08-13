@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: Miguel García
+owner: Miguel Ángel García Cordero
 email: mgarquitectura@arquitecturamg.com
 facebook_username: MiguelGarciaAyD
 twitter_username:
